@@ -183,5 +183,5 @@ For issues and questions:
 3. Verify configuration
 4. Contact project maintainers
 
-## License
-[Specify your license information here]
+##Note:
+This program was run for only 10 minutes. Running it for a longer duration will result in storing additional product data, as more data will be processed and saved over time.
