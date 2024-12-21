@@ -1,0 +1,27 @@
+2024-12-18 21:43:40,697 - src.scrapers.base - INFO - WebDriver setup completed successfully
+2024-12-18 21:43:40,698 - src.auth.login - INFO - Starting Amazon login process
+2024-12-18 21:44:21,220 - src.auth.login - ERROR - Error during login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D1EC6CC5+28821]
+	(No symbol) [0x00007FF6D1E33850]
+	(No symbol) [0x00007FF6D1CD578A]
+	(No symbol) [0x00007FF6D1D291BE]
+	(No symbol) [0x00007FF6D1D294AC]
+	(No symbol) [0x00007FF6D1D72647]
+	(No symbol) [0x00007FF6D1D4F33F]
+	(No symbol) [0x00007FF6D1D6F412]
+	(No symbol) [0x00007FF6D1D4F0A3]
+	(No symbol) [0x00007FF6D1D1A778]
+	(No symbol) [0x00007FF6D1D1B8E1]
+	GetHandleVerifier [0x00007FF6D21FFCCD+3408029]
+	GetHandleVerifier [0x00007FF6D221743F+3504143]
+	GetHandleVerifier [0x00007FF6D220B61D+3455469]
+	GetHandleVerifier [0x00007FF6D1F8BDCB+835995]
+	(No symbol) [0x00007FF6D1E3EB6F]
+	(No symbol) [0x00007FF6D1E3A824]
+	(No symbol) [0x00007FF6D1E3A9BD]
+	(No symbol) [0x00007FF6D1E2A1A9]
+	BaseThreadInitThunk [0x00007FFEBB567374+20]
+	RtlUserThreadStart [0x00007FFEBCB1CC91+33]
+
+2024-12-18 21:44:23,379 - src.scrapers.base - INFO - WebDriver closed successfully

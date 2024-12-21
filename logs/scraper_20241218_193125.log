@@ -1,0 +1,3 @@
+2024-12-18 19:31:27,004 - src.scrapers.base - INFO - WebDriver setup completed successfully
+2024-12-18 19:31:27,005 - src.auth.login - INFO - Starting Amazon login process
+2024-12-18 19:31:43,204 - src.auth.login - INFO - Successfully logged in to Amazon
